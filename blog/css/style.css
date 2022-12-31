@@ -1,0 +1,16 @@
+a{
+    text-decoration: None !important;
+}
+
+.list-group-item{
+    background-color: black;
+    border-bottom: 2px solid white;
+}
+.list-group-item:hover{
+    padding-left: 35px;
+}
+
+.sidebar{
+    height: 900px !important;
+    position: static !important;
+}
